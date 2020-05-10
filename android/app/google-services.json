@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475257869568",
+    "firebase_url": "https://connect-7d4d2.firebaseio.com",
+    "project_id": "connect-7d4d2",
+    "storage_bucket": "connect-7d4d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475257869568:android:ae012db0d932d61be70fe5",
+        "android_client_info": {
+          "package_name": "com.vinit.smallbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475257869568-4tffefo9j4e722f4mpb06ed1e9ojr06t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_aHdeF_dmCA6qEMMAIhPm7meFPbEilg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475257869568-4tffefo9j4e722f4mpb06ed1e9ojr06t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
